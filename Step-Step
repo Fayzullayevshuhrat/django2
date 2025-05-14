@@ -1,9 +1,0 @@
-1. pip install django
-2. django-admin startproject <nomi> .
-3. django-admin startapp <nomi>
-
-4. python manage.py makemigrations -> db dagi o'zgarishlarni ko'rsatadi
-5. python manage.py migrate - db rostan o'zgartirib keladi
-
-6.  python manage.py runserver
-7.  python manage.py createsuperuser
