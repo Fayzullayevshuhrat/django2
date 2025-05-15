@@ -1,5 +1,5 @@
 from django.http import HttpResponse
-from models import Task
+from .models import Task
 from django.shortcuts import render
 
 
